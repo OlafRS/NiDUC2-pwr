@@ -1,84 +1,20 @@
 SIMULATION SUCCESSFUL
 
-Chosen number of channels: 32
-Chosen number of minimum hops: 3
-Chosen number of transmitters/receivers: 6
-Chosen size of the frame: 100
+Chosen number of time needed to send a frame: 5
+Chosen number of channels: 1
+Chosen number of packets: 2
 
-Number of collisions: 2
-Time to send every frame: 19
+Total time of the simulation: 23seconds
 
-Final paths of every frame:
-(unit of time ||| channel)
+Data from each packet:
 
-Frame number 0 :
-2 ||| 15
-3 ||| 3
-4 ||| 17
-5 ||| 10
-6 ||| 10
-7 ||| 26
-8 ||| 19
-9 ||| 21
-10 ||| 16
-11 ||| 20
+Packet id: 1
+Number of frames in the packet: 2
+Total time of sending everything: 13
+Number of collisions: 3
 
-Frame number 1 :
-1 ||| 16
-2 ||| 3
-3 ||| 16
-4 ||| 19
-5 ||| 17
-6 ||| 17
-7 ||| 31
-8 ||| 11
-9 ||| 15
-10 ||| 27
+Packet id: 2
+Number of frames in the packet: 2
+Total time of sending everything: 14
+Number of collisions: 1
 
-Frame number 2 :
-1 ||| 10
-2 ||| 2
-3 ||| 6
-4 ||| 24
-5 ||| 24
-6 ||| 0
-7 ||| 24
-8 ||| 12
-9 ||| 30
-10 ||| 11
-
-Frame number 3 :
-2 ||| 26
-3 ||| 8
-4 ||| 2
-5 ||| 18
-6 ||| 6
-7 ||| 12
-8 ||| 0
-9 ||| 11
-10 ||| 7
-11 ||| 25
-
-Frame number 4 :
-10 ||| 15
-11 ||| 31
-12 ||| 17
-13 ||| 28
-14 ||| 31
-15 ||| 6
-16 ||| 29
-17 ||| 13
-18 ||| 14
-19 ||| 11
-
-Frame number 5 :
-10 ||| 8
-11 ||| 29
-12 ||| 8
-13 ||| 29
-14 ||| 19
-15 ||| 18
-16 ||| 13
-17 ||| 2
-18 ||| 9
-19 ||| 13

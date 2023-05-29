@@ -5,11 +5,11 @@ package sym;
 
 public class Pair {
 
-    int time;
-    int place;
+    boolean isEmpty;
+    int packetId;
 
-    public Pair(int t, int p) {
-        this.time= t;
-        this.place= p;
+    public Pair() {
+        this.isEmpty= true;
+        this.packetId = 0;
     }
 }
