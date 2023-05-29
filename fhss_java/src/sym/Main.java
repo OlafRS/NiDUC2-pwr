@@ -25,7 +25,7 @@ class Packet {
     public Packet(int id) {
         Random rand = new Random();
         this.framesToSend = rand.nextInt(4) + 2; // Random number between 2 and 5
-        this.startingTime = rand.nextInt(9)+1;
+        this.startingTime = rand.nextInt(59)+1;
         this.beginningTime = this.startingTime;
         this.id = id;
         this.numCollisions = 0;
