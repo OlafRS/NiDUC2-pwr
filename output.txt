@@ -1,20 +1,60 @@
 SIMULATION SUCCESSFUL
 
 Chosen number of time needed to send a frame: 5
-Chosen number of channels: 1
-Chosen number of packets: 2
+Chosen number of channels: 16
+Chosen number of packets: 10
 
-Total time of the simulation: 23seconds
+Total time of the simulation: 92 seconds
 
 Data from each packet:
 
 Packet id: 1
-Number of frames in the packet: 2
-Total time of sending everything: 13
-Number of collisions: 3
+Number of frames in the packet: 5
+Total time of sending everything: 30
+Number of collisions: 1
 
 Packet id: 2
-Number of frames in the packet: 2
-Total time of sending everything: 14
+Number of frames in the packet: 5
+Total time of sending everything: 29
+Number of collisions: 0
+
+Packet id: 3
+Number of frames in the packet: 3
+Total time of sending everything: 18
 Number of collisions: 1
+
+Packet id: 4
+Number of frames in the packet: 3
+Total time of sending everything: 17
+Number of collisions: 0
+
+Packet id: 5
+Number of frames in the packet: 5
+Total time of sending everything: 32
+Number of collisions: 1
+
+Packet id: 6
+Number of frames in the packet: 2
+Total time of sending everything: 13
+Number of collisions: 2
+
+Packet id: 7
+Number of frames in the packet: 5
+Total time of sending everything: 29
+Number of collisions: 0
+
+Packet id: 8
+Number of frames in the packet: 5
+Total time of sending everything: 29
+Number of collisions: 0
+
+Packet id: 9
+Number of frames in the packet: 4
+Total time of sending everything: 26
+Number of collisions: 4
+
+Packet id: 10
+Number of frames in the packet: 5
+Total time of sending everything: 35
+Number of collisions: 2
 

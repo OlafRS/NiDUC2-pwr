@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "fhss_python", "fhss_python\fhss_python.pyproj", "{3475236F-47AF-4CD4-BF68-8F8D518F33FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3475236F-47AF-4CD4-BF68-8F8D518F33FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3475236F-47AF-4CD4-BF68-8F8D518F33FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BEF734-CD1E-43B8-B4CB-1CA5C9A165F0}
+	EndGlobalSection
+EndGlobal
